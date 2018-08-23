@@ -1,2 +1,2 @@
 # smart-contract
-Smart-contract codes.
+常用的智能合约代码
